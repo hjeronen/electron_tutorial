@@ -1,0 +1,15 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "author": "hellurei",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.0.0"
+  }
+}
